@@ -5,7 +5,7 @@
 
 Name:		    %{?scl_prefix}scons
 Version:	    2.3.4
-Release:	    3%{?posttag}%{?dist}
+Release:	    3%{?posttag}.bs1%{?dist}
 Summary:	    An Open Source software construction tool
 Group:		    Development/Tools
 License:	    MIT
